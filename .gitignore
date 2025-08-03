@@ -1,2 +1,3 @@
 # Ignorar los directorios de cache de Python
 __pycache__/
+resultados/
